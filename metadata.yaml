@@ -1,0 +1,26 @@
+_repo: Celtic-Tales-Told-to-the-Children_7488
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chisholm, Louey
+    gutenberg_agent_id: '2485'
+    url: http://www.gutenberg.org/2009/agents/2485
+description: ''
+gutenberg_bookshelf:
+- Children's Myths, Fairy Tales, etc.
+- Folklore
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- Great Britain'
+- GITenberg
+tableOfContents: The star-eyed Deirdre -- The four white swans -- Dermat and Grania.
+title: Celtic Tales, Told to the Children
+url: http://www.gutenberg.org/ebooks/7488
