@@ -1,11 +1,16 @@
 _repo: Celtic-Tales-Told-to-the-Children_7488
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chisholm, Louey
     gutenberg_agent_id: '2485'
     url: http://www.gutenberg.org/2009/agents/2485
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7488#Celtic-Tales-Told-to-the-Children
 gutenberg_bookshelf:
 - Children's Myths, Fairy Tales, etc.
 - Folklore
